@@ -1,4 +1,5 @@
-# 🧠 taskify-bot
+# 🧠 [taskify-bot](https://t.me/taskvalutbot)
+
 
 A nerdy Telegram task bot built for productivity minimalists. No flashy UI. Just `[text]`, `[time]`, and `[focus]`. Monospace layout, CLI-style vibes, and one-task-at-a-time workflow.
 
